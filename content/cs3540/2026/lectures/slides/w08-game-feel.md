@@ -134,7 +134,7 @@ And three outside testers is enough — the returns fall off fast. They must not
 - Line up **three outside testers** — not teammates
 - `cheatsheet-game-feel-and-juice`, `cheatsheet-mda-framework`, `cheatsheet-playtesting`
 
-Thursday, AI: **Reading the Divergence Report.** The Act II response is due **Sun Oct 19.**
+Thursday, AI: **Reading the Divergence Report.** The Act II response is due **Thu Oct 22.**
 
 NOTES:
 Do the hitstop tonight. Genuinely, tonight. It is three lines, and the ratio of effect to effort is the best in the course.
@@ -143,4 +143,4 @@ The second one is the discussion. Find the unfair thing in your own game and bri
 
 And start lining up testers now, because three outside testers is a scheduling problem rather than a technical one, and it is due in November. Scheduling problems do not compress.
 
-Thursday is the divergence report, and your Act II response is due on the nineteenth.
+Thursday is the divergence report, and your Act II response is due the following Thursday, the twenty-second.

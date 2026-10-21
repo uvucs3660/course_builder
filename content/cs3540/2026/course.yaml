@@ -220,7 +220,7 @@ assignments:
     grading_type: points
     submission_types: [none]
     rubric: cs3540-devlog
-    due_at: "2026-10-19T05:59:59"
+    due_at: "2026-10-23T05:59:59"
   - slug: devlog-w10
     title: "Week 10 · Devlog"
     body: devlog/w10.md
@@ -508,7 +508,7 @@ assignments:
     grading_type: points
     submission_types: [none]
     rubric: cs3540-divergence-response
-    due_at: "2026-10-19T05:59:59"
+    due_at: "2026-10-23T05:59:59"
   - slug: divergence-act-3a
     title: "Divergence Response · Act III first half"
     body: assignments/divergence-act-3a.md

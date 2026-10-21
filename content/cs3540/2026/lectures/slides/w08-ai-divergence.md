@@ -9,7 +9,7 @@ runtime: 18
 NOTES:
 Week eight, AI track, and this one is about your own words coming back to you with a number attached.
 
-By now the scheduled agent has been building the specification independently, several times over, and comparing the results. Where the builds disagree, there is a report. Your Act Two response to that report is due on Sunday the nineteenth.
+By now the scheduled agent has been building the specification independently, several times over, and comparing the results. Where the builds disagree, there is a report. Your Act Two response to that report is due on Thursday the twenty-second.
 
 This lecture is how to read it, and — more importantly — what it is actually telling you, because the natural reading of that report is the wrong one, and almost everybody arrives at it within about four seconds of opening the file.
 ---
@@ -106,7 +106,7 @@ A good response has four parts and fits inside a paragraph. Both readings, named
 That last part should be familiar by now. Same standard as an anti-goal you can show firing, and a hook you have watched block something. A claim with no vector is an opinion, three weeks running.
 ---
 
-# Divergence Response · Act II — due Sun Oct 19
+# Divergence Response · Act II — due Thu Oct 22
 
 - One response per divergence attributed to **your** section
 - Both readings named; the sentence quoted; the new vector included
@@ -117,7 +117,7 @@ Read `cheatsheet-conformance-vectors` and `cheatsheet-writing-a-spec-agents-can-
 Next Tuesday, Game: **Space** — the 3D pipeline.
 
 NOTES:
-Due Sunday the nineteenth.
+Due Thursday the twenty-second.
 
 The third bullet is for the few of you whose sections came through clean. That is a real result and it deserves a real answer. What did you pin that other sections did not? Go find a sentence in your section that names a rounding, an order, or a tie-break, and explain what would have happened without it. That is the same intellectual work as fixing a divergence, done in advance and for free.
 

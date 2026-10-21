@@ -1,6 +1,6 @@
 # Divergence Response — Act II
 
-**Due:** Sun Oct 18, 2026 23:59 MT · **Points:** 50
+**Due:** Thu Oct 22, 2026 23:59 MT · **Points:** 50
 
 ## What to do
 
